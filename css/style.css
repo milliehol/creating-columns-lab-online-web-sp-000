@@ -60,12 +60,14 @@ img:hover {
 }
 
 .med {
-  width: 201.5%;
-  height: 201.5%;
+  width: 200%;
+  height: 200%;
 
 }
 
 .large {
+  width: 300%;
+  height: 300%;
 
 }
 
